@@ -1,0 +1,31 @@
+.landing-page {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #555;
+  }
+  
+  .dropdown-menu {
+    background-color: #f8f9fa; /* Bootstrap background color */
+  }
+
+  .dropdown-container {
+    display: flex;
+    gap: 10px; /* Adjust the gap as needed */
+  }
